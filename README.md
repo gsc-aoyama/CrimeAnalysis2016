@@ -4,7 +4,8 @@
 
 ![](https://cloud.githubusercontent.com/assets/416977/14906226/f4dfb9b0-0df3-11e6-8a0c-e94910e973be.png)
 
-- BackoftheYards_TourMap_1988.kmz
+
+- [ BackoftheYards_TourMap_1988.kmz ] (https://github.com/gsc-aoyama/CrimeAnalysis2016/raw/master/maps/BackoftheYards_TourMap_1988.kmz)
 
 
 © Yutaka HARADA, CrimeAnalysis@AGU, CC BY-SA 4.0
